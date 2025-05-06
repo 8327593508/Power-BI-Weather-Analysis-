@@ -4,7 +4,7 @@
 
 This is my capstone project for Power BI, aimed at analyzing and visualizing global weather trends through interactive dashboards and data-driven insights.
 
-📁 **Solution Link**: [Google Drive – Project Files](https://drive.google.com/drive/folders/18r-Pn4C_DhWSydFqz_iyoVALTq6qrVyX?usp=drive_link)
+📁 **Solution Link**: [Google Drive – Project Files](https://drive.google.com/drive/folders/117RqDQilxVQ_nWVFcqb9HpCg-Oz9Zy6-?usp=sharing)
 
 ---
 # 🌦️ Power BI Dashboard Overview
@@ -46,7 +46,7 @@ A complete end-to-end approach was taken, combining **Power BI dashboards**, **E
 
 The dataset includes multiple tables integrating temporal and geographic dimensions, enabling multi-faceted weather analysis.
 
-📥 **[Download Dataset (Google Drive)](https://drive.google.com/drive/folders/18r-Pn4C_DhWSydFqz_iyoVALTq6qrVyX?usp=drive_link)**
+📥 **[Download Dataset (Google Drive)](https://drive.google.com/drive/folders/117RqDQilxVQ_nWVFcqb9HpCg-Oz9Zy6-?usp=sharing)**
 
 ### 📂 Core Tables
 
