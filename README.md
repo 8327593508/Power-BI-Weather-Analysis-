@@ -2,13 +2,15 @@
 
 # 🌦️ Power BI Capstone Project – Weather Analysis
 
-This is my final capstone project for Power BI, aimed at analyzing and visualizing global weather trends through interactive dashboards and data-driven insights.
+This is my capstone project for Power BI, aimed at analyzing and visualizing global weather trends through interactive dashboards and data-driven insights.
 
 📁 **Solution Link**: [Google Drive – Project Files](https://drive.google.com/drive/folders/18r-Pn4C_DhWSydFqz_iyoVALTq6qrVyX?usp=drive_link)
 
 ---
+# 🌦️ Power BI Dashboard Overview
+![image](https://github.com/user-attachments/assets/32c0c272-20b0-44b2-909e-02f95bc67995)
 
-## 📌 Overview
+## 📌 Project Overview
 
 The **Weather Analysis Project** explores global meteorological patterns using structured weather data — including temperature, humidity, pressure, wind speed, and wind direction — across multiple cities and time periods. The project is designed to support:
 
