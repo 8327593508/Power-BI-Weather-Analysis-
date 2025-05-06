@@ -51,6 +51,7 @@ The dataset includes multiple tables integrating temporal and geographic dimensi
 ### 📂 Core Tables
 
 * **`final_fact`** – Weather measurements
+  
 ![image](https://github.com/user-attachments/assets/8e1fc06c-9a4d-4ece-bb88-5ab1caf71e56)
 
 * **`city_lookup`** – City metadata
