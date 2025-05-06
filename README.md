@@ -51,19 +51,19 @@ The dataset includes multiple tables integrating temporal and geographic dimensi
 ### 📂 Core Tables
 
 * **`final_fact`** – Weather measurements
-  ![image](https://github.com/user-attachments/assets/8e1fc06c-9a4d-4ece-bb88-5ab1caf71e56)
+![image](https://github.com/user-attachments/assets/8e1fc06c-9a4d-4ece-bb88-5ab1caf71e56)
 
 * **`city_lookup`** – City metadata
-  ![image](https://github.com/user-attachments/assets/701dfaed-7011-49ab-845f-355669e52a06)
+![image](https://github.com/user-attachments/assets/701dfaed-7011-49ab-845f-355669e52a06)
 
 * **`country`** – Country reference table
-  ![image](https://github.com/user-attachments/assets/05b451f1-146f-4fe8-a652-e988b97cd1ba)
+![image](https://github.com/user-attachments/assets/05b451f1-146f-4fe8-a652-e988b97cd1ba)
 
 * **`city_attributes`** – Latitude and longitude data
-  ![image](https://github.com/user-attachments/assets/e3c12351-71c6-4434-811a-e379e455fc6f)
+![image](https://github.com/user-attachments/assets/e3c12351-71c6-4434-811a-e379e455fc6f)
 
 * **`date_lookup`, `time_lookup`** – Temporal dimensions
-  ![image](https://github.com/user-attachments/assets/f256b52f-890b-4b66-8d72-76c00f80a77c)
+![image](https://github.com/user-attachments/assets/f256b52f-890b-4b66-8d72-76c00f80a77c)
 
 ### 🔑 Key Columns
 
@@ -82,22 +82,22 @@ The dataset includes multiple tables integrating temporal and geographic dimensi
 A variety of data visualizations were designed in Power BI to uncover trends, patterns, and anomalies:
 
 * 🌍 **Maps** – City locations using latitude/longitude
-  ![image](https://github.com/user-attachments/assets/9ef3f3ba-71cb-4f79-bfc0-2d2812d4c641)
+![image](https://github.com/user-attachments/assets/9ef3f3ba-71cb-4f79-bfc0-2d2812d4c641)
 
 * 📊 **Bar Charts** – Top countries by number of cities, extreme temperatures
-  ![image](https://github.com/user-attachments/assets/444c7b4e-0f5b-49ea-b275-8fb5104c0868)
+![image](https://github.com/user-attachments/assets/444c7b4e-0f5b-49ea-b275-8fb5104c0868)
 
 * 📈 **Line Charts** – Temperature variations over time (global/city-specific)
-  ![image](https://github.com/user-attachments/assets/ae05a67f-6745-46b4-a348-620d9af47b44)
+![image](https://github.com/user-attachments/assets/ae05a67f-6745-46b4-a348-620d9af47b44)
 
 * 🌡️ **Heatmaps**
 
-  * Humidity levels
-    ![image](https://github.com/user-attachments/assets/47b94d16-5230-4ec5-b152-aef4918f3598)
-  * Wind speed by month
-    ![image](https://github.com/user-attachments/assets/034408b9-7924-4478-83c7-0036d281f1e3)
-  * Busiest weather hours
-    ![image](https://github.com/user-attachments/assets/dbfb5e30-bd4a-4ed9-979e-bce8b75f2e3e)
+  Humidity levels
+  ![image](https://github.com/user-attachments/assets/47b94d16-5230-4ec5-b152-aef4918f3598)
+   Wind speed by month
+  ![image](https://github.com/user-attachments/assets/034408b9-7924-4478-83c7-0036d281f1e3)
+  Busiest weather hours
+  ![image](https://github.com/user-attachments/assets/dbfb5e30-bd4a-4ed9-979e-bce8b75f2e3e)
 
 * 🌀 **Radial/Wind Rose Charts** – Wind direction and diurnal wind speeds
   ![image](https://github.com/user-attachments/assets/a5d7db61-67b0-4f9a-bdb2-34271f4d7256)
