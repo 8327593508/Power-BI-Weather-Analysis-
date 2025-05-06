@@ -1,8 +1,4 @@
-# Power BI Weather Analysis
-Weather Analysis Project in Power BI
-Sure! Here's your finalized and combined **README.md** for the **Power BI Capstone Project – Weather Analysis**, including the dataset link and all sections cleanly formatted and professional:
 
----
 
 # 🌦️ Power BI Capstone Project – Weather Analysis
 
