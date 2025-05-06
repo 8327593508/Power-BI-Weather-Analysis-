@@ -171,7 +171,5 @@ EDA was conducted in Excel and MySQL to prepare, clean, and analyze weather patt
 
 This capstone project showcases how structured data modeling, EDA, and interactive visual storytelling can work together to solve real-world problems related to climate and weather analytics. It provides scalable, decision-ready insights for professionals working in urban infrastructure, disaster mitigation, and environmental research.
 
----
 
-Let me know if you'd like this exported as a Markdown file or need a formatted PDF version!
 
